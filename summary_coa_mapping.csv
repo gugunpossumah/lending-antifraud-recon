@@ -1,0 +1,21 @@
+transaction_type,transaction_status,gl_posting_status,coa_journal_mapping,total_transactions,total_nominal_amount,flagged_fraud_count,flagged_fraud_amount
+Credit Card,Success,Posted to GL,Dr 2-1100 Simpanan Nasabah / Cr 1-1100 Kas & Bank,4989,25373248.86,30,289248.86
+Loan Disbursement,Success,Posted to GL,Dr 1-1300 Piutang Pinjaman / Cr 1-1100 Kas & Bank,5035,25223307.15,30,202907.15
+Debit Card,Success,Posted to GL,Dr 2-1100 Simpanan Nasabah / Cr 1-1100 Kas & Bank,5065,25175457.83,22,161757.83
+UPI,Success,Posted to GL,Dr 2-1100 Simpanan Nasabah / Cr 1-1100 Kas & Bank,4886,24979438.67,27,187338.67
+ATM Withdrawal,Success,Posted to GL,Dr 2-1100 Simpanan Nasabah / Cr 1-1100 Kas & Bank,5013,24848004.79,19,129004.79
+Fund Transfer,Success,Posted to GL,Dr 2-1100 Simpanan Nasabah / Cr 1-1100 Kas & Bank,4994,24611310.05,18,140810.05
+Net Banking,Success,Posted to GL,Dr 2-1100 Simpanan Nasabah / Cr 1-1100 Kas & Bank,4872,24596457.62,31,214157.62
+Deposit,Success,Posted to GL,Dr 1-1100 Kas & Bank / Cr 2-1100 Simpanan Nasabah,4947,24493371.89,30,195371.89
+EMI Payment,Success,Posted to GL,Unmapped Account (Perlu Review Accounting),4995,24418610.74,20,207810.74
+Bill Payment,Success,Posted to GL,Dr 2-1100 Simpanan Nasabah / Cr 1-1100 Kas & Bank,4949,24357444.8,20,209444.8
+Fund Transfer,Failed,Excluded from GL,No GL Posting (Failed / Non-Settled Transaction),31,338978.32,31,338978.32
+Bill Payment,Failed,Excluded from GL,No GL Posting (Failed / Non-Settled Transaction),26,316273.07,26,316273.07
+UPI,Failed,Excluded from GL,No GL Posting (Failed / Non-Settled Transaction),33,276992.58,33,276992.58
+Debit Card,Failed,Excluded from GL,No GL Posting (Failed / Non-Settled Transaction),23,265508.88,23,265508.88
+ATM Withdrawal,Failed,Excluded from GL,No GL Posting (Failed / Non-Settled Transaction),29,235341.98,29,235341.98
+EMI Payment,Failed,Excluded from GL,No GL Posting (Failed / Non-Settled Transaction),36,217405.21,36,217405.21
+Credit Card,Failed,Excluded from GL,No GL Posting (Failed / Non-Settled Transaction),18,208069.69,18,208069.69
+Loan Disbursement,Failed,Excluded from GL,No GL Posting (Failed / Non-Settled Transaction),21,149158.05,21,149158.05
+Deposit,Failed,Excluded from GL,No GL Posting (Failed / Non-Settled Transaction),19,109750.53,19,109750.53
+Net Banking,Failed,Excluded from GL,No GL Posting (Failed / Non-Settled Transaction),19,89585.75,19,89585.75

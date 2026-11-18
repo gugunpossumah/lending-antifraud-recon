@@ -1,0 +1,15 @@
+feature,importance
+f10_failed_trx_count,0.353
+f5_min_cibil_score,0.1715
+f2_declined_apps_count,0.1504
+f3_rejection_rate,0.1451
+f4_max_loan_requested,0.0323
+f7_loan_to_income_spike,0.0313
+f6_max_dti_ratio,0.0289
+f9_trx_amount_spike_ratio,0.0281
+f1_total_loan_apps,0.0161
+f8_total_trx_count,0.0131
+f13_distinct_ips,0.0107
+f12_distinct_devices,0.0098
+f14_zero_balance_drain_count,0.0077
+f11_intl_trx_count,0.0017

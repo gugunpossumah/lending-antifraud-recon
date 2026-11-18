@@ -1,0 +1,21 @@
+# Python caches & virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets & local configs
+.env
+.streamlit/secrets.toml
+
+# Local SQLite database & raw large datasets (keep summary_*.csv for Streamlit Cloud)
+*.db
+*.sqlite
+*.sqlite3
+loan_applications.csv
+transactions.csv
+
+# OS junk
+.DS_Store
+Thumbs.db
