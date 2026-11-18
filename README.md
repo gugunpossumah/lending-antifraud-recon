@@ -1,5 +1,9 @@
 # Lending Monitoring, Anti-Fraud (FPU/FTR) & Financial Reconciliation System
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lending-antifraud-recon.streamlit.app/)
+
+**Live Interactive Dashboard:** https://lending-antifraud-recon.streamlit.app/
+
 End-to-end **Data Analytics, Fraud Risk Scoring & Financial Control** portfolio project yang menggabungkan **SQL (SQLite)**, **Python (`pandas`, `scikit-learn`)**, dan **Interactive BI Dashboard (`Streamlit` + `Plotly`)** untuk mengaudit pencairan pinjaman, mendeteksi nasabah berisiko fraud, serta menjaga akurasi General Ledger (Chart of Accounts).
 
 ---
